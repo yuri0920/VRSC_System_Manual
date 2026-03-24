@@ -1,4 +1,4 @@
-# Unreal Engineプロジェクトの起動方法および使用方法
+# VR-SCシステム（Unreal Engineプロジェクト）の起動方法および使用方法
 - VIVEおよびPythonの準備が完了してから、以下の作業を行ってください。
 ## 事前準備
 - UE5のProjectフォルダの中の「Dialog_Player1」、「Dialog_Player2」、「Dialog_Player2_Change」のフォルダの中にある音声ファイルをすべて削除する
