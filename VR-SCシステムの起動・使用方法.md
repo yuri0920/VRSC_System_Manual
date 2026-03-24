@@ -1,6 +1,9 @@
-# VR-SCシステム（Unreal Engineプロジェクト）の起動方法および使用方法
+# VR-SCシステム（Unreal Engineプロジェクト）の起動方法および使用方法 
 - VIVEおよびPythonの準備が完了してから、以下の作業を行ってください。
 ## 事前準備
+- プロジェクトの場所
+  - プロト版：展開した7zipフォルダの直下
+  - 各参加者Ver：「{参加者ID}/VR/VRSC_{実験条件}_{ID}」
 - UE5のProjectフォルダの中の「Dialog_Player1」、「Dialog_Player2」、「Dialog_Player2_Change」のフォルダの中にある音声ファイルをすべて削除する
   <br><p align="center"> 
   <img width="750" alt="image" src="https://github.com/user-attachments/assets/4214a246-f62f-4bc6-a7e9-5e269ebe7170" />
