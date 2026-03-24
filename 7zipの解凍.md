@@ -21,4 +21,7 @@
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/2cdeb5e9-f28b-4563-9b22-43fbcaf52d3a" />
 </p>
 
+<p align="right">
+  <a href="周辺機器の接続.md">次ページ（周辺機器の接続）-></a>
+</p>
 
