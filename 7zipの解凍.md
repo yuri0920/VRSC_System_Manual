@@ -16,7 +16,7 @@
 <br><img width="1928" height="900" alt="image" src="https://github.com/user-attachments/assets/3cb0b4c4-292d-494e-89b1-c997a31d5918" />
 
 <br><b>※各参加者の実験システムの7zipにはパスワードが設定してある
-<br>※展開する際にパスワードの入力を求められるため、研究室で使用するいつものパスワード（0******9）を入れて「OK」を押す（その他の7zipファイルもパスワードを求められた際は同じパスワード）
+<br>※展開する際にパスワードの入力を求められるため、研究室で使用するいつものパスワード（0*******9）を入れて「OK」を押す（その他の7zipファイルもパスワードを求められた際は同じパスワード）
 </b>
 <p align="center">
   <img width="350" alt="image" src="https://github.com/user-attachments/assets/2cdeb5e9-f28b-4563-9b22-43fbcaf52d3a" />
