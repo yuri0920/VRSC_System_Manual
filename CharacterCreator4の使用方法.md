@@ -1,4 +1,11 @@
 # CharacterCreator4（CC4）の使用方法
+## CC4について
+- 研究室のデスクトップ型のMouse PCの「k-lab」アカウントでログインすると、「Reallusion Hub」というアプリがあります。
+- アプリ内からCharacter Creator4を開くことができます。
+- アカウント
+  - ユーザ名：kikuchi_462750
+  - メールアドレス：kikuchi@waseda.jp
+  - パスワード：icdBL33hN@sZYqW
 ## CC4でアバターを作成する
 - Character Creator4起動
   - Reallusion Hubから開く
